@@ -1,0 +1,19 @@
+{
+  "name": "photoupload",
+  "version": "1.0.0",
+  "description": "Nodejs Service image upload on local storage with Multer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Multer"
+  ],
+  "author": "Mehmet Guzelsever",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
